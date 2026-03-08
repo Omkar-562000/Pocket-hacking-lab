@@ -1,0 +1,15 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" fill="#0f172a"></rect>
+  
+  <text x="600" y="120" font-size="48" fill="#38bdf8" text-anchor="middle" font-family="Arial">
+    Pocket Cybersecurity Lab
+  </text>
+  
+  <text x="600" y="170" font-size="22" fill="#e2e8f0" text-anchor="middle" font-family="Arial">
+    Portable Kali Linux Penetration Testing Environment
+  </text>
+  
+  <text x="600" y="220" font-size="18" fill="#94a3b8" text-anchor="middle" font-family="Arial">
+    Persistent USB • Ethical Hacking Practice • Cybersecurity Learning
+  </text>
+</svg>
